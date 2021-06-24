@@ -26,6 +26,7 @@ type QuestionType = {
   isAnswered: boolean;
   isHighlighted: boolean;
   likeCount: number;
+  //hasLiked: boolean;
   likeId: string | undefined;
 }
 
