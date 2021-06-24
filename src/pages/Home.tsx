@@ -1,16 +1,16 @@
 import { useHistory } from 'react-router-dom'
+import { FormEvent, useState } from 'react';
 
 import illustrationImg from '../assets/images/illustration.svg'
 import logoImg from '../assets/images/logo.svg';
 import googleIconImg from '../assets/images/google-icon.svg';
 
+import { database } from '../services/firebase';
+
 import { Button } from '../components/Button';
 import { useAuth } from '../hooks/useAuth';
 
 import '../styles/auth.scss';
-import { FormEvent } from 'react';
-import { useState } from 'react';
-import { database } from '../services/firebase';
 
 export function Home() {
   const history = useHistory();
@@ -31,6 +31,7 @@ export function Home() {
     if (roomCode.trim() === '') {
       return;
     }
+
     const roomRef = await database.ref(`rooms/${roomCode}`).get();
 
     if (!roomRef.exists()) {
@@ -38,7 +39,7 @@ export function Home() {
       return;
     }
 
-    history.push(`/rooms/${roomCode}`)
+    history.push(`/rooms/${roomCode}`);
   }
 
   return (
