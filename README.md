@@ -6,7 +6,6 @@
 
 
 # Let Me Ask
-<hr />
 <br />
 
 <p align="center">
@@ -18,6 +17,7 @@
 
 Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Level Week #6 @Rocketseat.
 
+<hr />
 ###### Faças suas perguntas! Aqui nos ajudamos a chegar no próximo nível. 
 
 <br>
