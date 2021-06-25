@@ -5,28 +5,33 @@
 <h1 align="center">
 
 
+# Let Me Ask
+<hr />
+<br />
+
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-rodar">Como rodar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença-e-autora">Licença e Autora</a>
+
 </p>
 
-# Let Me Ask
 Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Level Week #6 @Rocketseat.
 
 ###### Faças suas perguntas! Aqui nos ajudamos a chegar no próximo nível. 
 
 <br>
 
-### Acesse os templates no Figma:
-
-- [Layout Web](https://www.figma.com/file/ITmt54Pz9ssMKU3pRMPHLS/Letmeask-(Copy)?node-id=0%3A1)
-
 ### Acesse a demo:
 
 Mande sua pergunta aqui:  https://letmeask-4962.web.app/
 Código da Sala: "-Md-bipLcJBmBu58LWNp"
+
+
+
+### Acesse os templates no Figma:
+
+- [Layout Web](https://www.figma.com/file/ITmt54Pz9ssMKU3pRMPHLS/Letmeask-(Copy)?node-id=0%3A1)
 
 
 #### Funcionalidades
@@ -106,8 +111,6 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 | Dia 5 | Juntos no próximo nível   |
 |-------|---------------------------|
 
-## Licença ⚖️
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/jorgejrdj/Podcastr/blob/main/LICENSE) para mais detalhes.
 
 <p align="center">
 <a href="https://ibb.co/QcwWvS5"><img src="https://i.ibb.co/VN4FYnK/cover-reactjs.png" alt="background" border="0"></a>
