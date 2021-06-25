@@ -1,6 +1,9 @@
+
 <p align="center">
-   <img src="./.github/logo.svg" alt="letmeask" width="300"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Sfg848j/6nlw.png" alt="5NLW" border="0"></a>
 </p>
+<h1 align="center">
+
 
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
